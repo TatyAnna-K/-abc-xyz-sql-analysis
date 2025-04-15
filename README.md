@@ -10,7 +10,7 @@
 Оптимизация ассортимента магазина путем классификации товаров по степени важности и стабильности спроса, чтобы снизить издержки и повысить эффективность операций.
 
 ## Методы анализа
-I used the ABC and XYZ methods to categorize products according to their importance and predictability of demand, respectively. For the ABC analysis, I chose the indicators of the number of units sold, revenue and profit, and for XYZ— the stability of demand.
+
 Использовала методы **ABC** и **XYZ** для разделения товаров на категории по их значимости и предсказуемости спроса соответственно. Для **ABC-анализа** выбрала показатели количества проданных единиц, выручки и прибыли, а для **XYZ-анализа** — стабильность спроса.
 
 ## Как я решала эту задачу
