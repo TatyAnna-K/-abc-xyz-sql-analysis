@@ -23,7 +23,7 @@ I used the ABC and XYZ methods to categorize products according to their importa
 
 ## Код
 
-Код можно посмотреть по ссылке: [scripts](./scripts/)
+Код можно посмотреть по ссылке: [abc.xyx.sql](./scripts/abc.xyz.sql) 
 
 ## Основные результаты
 
