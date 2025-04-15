@@ -15,8 +15,8 @@
 ## Как я решала эту задачу
 
 1. Загрузила синтетические данные за первое полугодие 2024 года в PostgreSQL. Данные включают таблицы продуктов и заказов. Файлы с данными можно посмотреть здесь:
-- **orders.csv**: [orders.csv](./data/orders.csv)  
-- **products.csv**: [products.csv](./data/products.csv)
+- orders.csv: [orders.csv](./data/orders.csv)  
+- products.csv: [products.csv](./data/products.csv)
 
 2. Выполнила классификацию товаров методами **ABC** и **XYZ**.
 
